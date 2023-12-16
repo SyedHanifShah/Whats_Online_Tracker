@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "22437650165",
+    "firebase_url": "https://statustracker-83d94-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "statustracker-83d94",
+    "storage_bucket": "statustracker-83d94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22437650165:android:206b503c6fc8b3381c2fbc",
+        "android_client_info": {
+          "package_name": "com.interexy.statustracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBtsxYB07rEliWmI8R92srRc_k5Np0E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
